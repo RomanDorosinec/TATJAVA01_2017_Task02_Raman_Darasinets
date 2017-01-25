@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+    <sportEquipment category="clothes" title="pants" price="23"/>
+    <sportEquipment category="clothes" title="jacket" price="74"/>
+    <sportEquipment category="clothes" title="helmet" price="14"/>
+    <sportEquipment category="clothes" title="helmet" price="20"/>
+    <sportEquipment category="equipment" title="skates" price="4"/>
+    <sportEquipment category="equipment" title="snowboard" price="5"/>
+    <sportEquipment category="equipment" title="sled" price="8"/>
+    <sportEquipment category="equipment" title="snowboard" price="10"/>
+    <sportEquipment category="equipment" title="skiing" price="2"/>
+</data>
